@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+<!-- Mirrored from medicalbuddy.herokuapp.com/ambulancelogin by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 10 Mar 2021 17:23:54 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <!--Meta Data-->
+    <!-- Meta Tags -->
+<meta name="viewport" content="width=device-width,initial-scale=1.0" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta name="description" content="A website which connects doctors, patients and services like ambulance provide">
+<meta name="keywords" content="MedBuddy, Patient, Hospital, Doctor, Ambulance, Medical Service, Appointment">
+<meta name="author" content="Aman Dwivedi">
+<title>MedBuddy</title>
+<!-- Favicon -->
+<link rel="apple-touch-icon" sizes="57x57" href="assets/images/Icon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="assets/images/Icon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="assets/images/Icon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="assets/images/Icon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="assets/images/Icon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="assets/images/Icon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="assets/images/Icon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="assets/images/Icon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="assets/images/Icon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="assets/images/Icon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/images/Icon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="assets/images/Icon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="assets/images/Icon/favicon-16x16.png">
+<link rel="manifest" href="assets/images/Icon/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="assets/images/Icon/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+<script data-ad-client="ca-pub-2262368880439944" async src="../pagead2.googlesyndication.com/pagead/js/f.txt"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-176269755-1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-176269755-1');
+</script>
+
+<!-- To run web application in full-screen -->
+<meta name="apple-mobile-web-app-capable" content="yes">
+<!-- Status Bar Style (see Supported Meta Tags below for available values) -->
+<!-- Has no effect unless you have the previous meta tag -->
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+<!-- Microsoft Tiles -->
+<meta name="msapplication-config" content="assets/images/Icon/browserconfig.xml" />
+
+<!-- FaceBook Meta Data -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://medicalbuddy.herokuapp.com/">
+<meta property="og:title" content="MedBuddy">
+<meta property="og:image" content="https://medicalbuddy.herokuapp.com/assets/images/icon.JPEG">
+<meta property="og:description" content="A website which connects doctors, patients and services like ambulance provide">
+<meta property="og:site_name" content="MedBuddy">
+<meta property="og:locale" content="en_US">
+<!-- Next tags are optional but recommended -->
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+
+<!-- Twitter Meta Data -->
+<meta name="twitter:card" content="A website which connects doctors, patients and services like ambulance provide">
+<meta name="twitter:site" content="@site_account">
+<meta name="twitter:creator" content="@individual_account">
+<meta name="twitter:url" content="https://medicalbuddy.herokuapp.com/">
+<meta name="twitter:title" content="MedBuddy">
+<meta name="twitter:description" content="A website which connects doctors, patients and services like ambulance provide">
+<meta name="twitter:image" content="https://medicalbuddy.herokuapp.com/assets/images/icon.JPEG">
+
+<!-- CORS Policy -->
+<meta http-equiv="Content-Security-Policy" content="img-src 'self' data: ; default-src *; style-src 'self' http:// 'unsafe-inline'; script-src 'self' http://* 'unsafe-inline' 'unsafe-eval'" />
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7T915H29JY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7T915H29JY');
+</script> 
+
+    
+      <!-- Production Stylesheets -->
+      <link rel="stylesheet" href="assets/production/css/loginRegister.min.css">
+
+    
+  </head>
+
+  <body onLoad="typeWriter()">
+    <!--Header-->
+    <!--Navbar Start-->
+<nav class="navbar navbar-expand-md navbar-light" id="header">
+  <img src="assets/images/appointment.jpg" width="100" height="100" alt="logo">
+  <ul class="list-group list-group-horizontal-sm">
+    <li class="list-group-item">
+      <i class="fa fa-envelope"></i>
+      <span>info@yourwebsite.com</span>
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-phone"></i>
+      <span>xxx-xxx-xxxx</span>
+    </li>
+  </ul>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
+    aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNavDropdown">
+    <ul class="navbar-nav ml-auto">
+      <li class="nav-item">
+        <a class="nav-link" href="index.html">HOME</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="about.html">ABOUT US</a>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" id="navbarDropdownPatient" role="button" data-toggle="dropdown"
+          aria-haspopup="true" aria-expanded="false">
+          PATIENT
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownPatient">
+          
+            <a class="dropdown-item" href="patientregistration.html">REGISTRATION</a>
+            <a class="dropdown-item" href="patientlogin.html">LOGIN</a>
+            
+        </div>
+
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" id="navbarDropdownDoctor" role="button" data-toggle="dropdown"
+          aria-haspopup="true" aria-expanded="false">
+          DOCTOR
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownDoctor">
+          
+            <a class="dropdown-item" href="doctorregistration.html">REGISTRATION</a>
+            <a class="dropdown-item" href="doctorlogin.html">LOGIN</a>
+            
+        </div>
+
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" id="navbarDropdownAmbulance" role="button" data-toggle="dropdown"
+          aria-haspopup="true" aria-expanded="false">
+          AMBULANCE SERVICE
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownAmbulance">
+          
+            <a class="dropdown-item" href="ambulanceregistration.html">REGISTRATION </a>
+            <a class="dropdown-item" href="ambulancelogin.html">LOGIN</a>
+            
+        </div>
+
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="faq.html">FAQ</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="services.html">SERVICES</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="gallery.html">GALLERY</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="news.html">NEWS</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+<!--Navbar End-->
+
+<!--Banner Start-->
+<div class="banner-slider" style="background-image: url(assets/images/banner.jpg)">
+  <div class="bg"></div>
+  <div class="bannder-table">
+    <div class="banner-text">
+      <h1 id="typeit"> </h1>
+    </div>
+  </div>
+</div>
+<!--Banner End-->
+
+    <div class="contact-area pt_60 pb_90">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-6">
+            <div class="contact-form headstyle user-login-tab pt_0">
+              <ul class="nav nav-tabs mt_15" role="tablist">
+                <li class="nav-item">
+                  <a class="nav-link active" data-toggle="tab" href="#" role="tab">Ambulance Login</a>
+                </li>
+              </ul>
+              <!-- Tab panes -->
+              <div class="tab-content">
+                <div class="tab-pane active" id="ambulanceLogin" role="tabpanel">
+                  <form action="https://medicalbuddy.herokuapp.com/ambulancelogin" method="POST" accept-charset="utf-8">
+                    <div class="form-row row mt_20">
+                      <div class="form-group col-12">
+                        <input type="email" class="form-control" placeholder="Email Address" name="username"
+                          autocomplete="off" required>
+                      </div>
+                      <div class="form-group col-12">
+                        <input type="password" class="form-control" placeholder="Password" name="password"
+                          autocomplete="off" required>
+                      </div>
+                      <div class="form-group col-12">
+                        <button type="submit" class="btn" name="ambulance_login">Login</button>
+                      </div>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!--Footer-->
+    <!--Footer Start-->
+<!--Call Start-->
+<div class="call-us" style="background-image: url(assets/images/background.jpg)">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-9 col-md-8 col-12">
+        <div class="call-text">
+          <h3>Now getting an appointment in any hospital has become online & easy!?</h3>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-4 col-12">
+        <div class="button">
+          <a href="patientregistration.html"> Book Appointment Now <i class="fa fa-chevron-circle-right"></i></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!--Call End-->
+
+<!--Address Start-->
+<div class="feature-area feature-two bg-area pt_90 pb_90">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="headline">
+          <h4>Address</h4>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-4 col-md-6">
+        <div class="feature-item">
+          <div class="feature-icon">
+            <br>
+            <i class="fa fa-map-marker fa-2x" aria-hidden="true"></i>
+          </div>
+          <div class="feature-text">
+            <p>
+              3153 Foley Street<br>
+              Miami, FL 33176
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-6">
+        <div class="feature-item">
+          <div class="feature-icon">
+            <br>
+            <i class="fa fa-phone fa-2x" aria-hidden="true"></i>
+          </div>
+          <div class="feature-text">
+            <p>
+              Sales: xxx-xxx-xxxx<br>
+              Support: 963-612-1782
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-6">
+        <div class="feature-item">
+          <div class="feature-icon">
+            <br>
+            <i class="fa fa-envelope fa-2x" aria-hidden="true"></i>
+          </div>
+          <div class="feature-text">
+            <p>
+              sales@yourwebsite.com<br>
+              support@yourwebsite.com
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-12">
+          <div class="aman">
+            <div class="footer-item">
+              <ul class="footer-social">
+                <li><a href="https://www.facebook.com/profile.php?id=100039304971071"><i class="fab fa-facebook-f"></i></a></li>
+                <li><a href="http://www.twitter.com/"><i class="fab fa-twitter"></i></a></li>
+                <li><a href="https://www.linkedin.com/in/aman-dwivedi/"><i class="fab fa-linkedin-in"></i></a></li>
+                <li><a href="http://www.pinterest.com/"><i class="fab fa-pinterest"></i></a></li>
+                <li><a href="http://www.youtube.com/"><i class="fab fa-youtube"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!--Address END-->
+
+<div class="footer-bottom pt_50 pb_50">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="footer-menu">
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="terms.html">Terms and Conditions</a></li>
+            <li><a href="privacypolicy.html">Privacy Policy</a></li>
+          </ul>
+        </div>
+        <div class="copy-text">
+          <p>
+            Copyright &copy; 2020
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!--Footer End-->
+
+<!--Scroll-Top-->
+<div class="scroll-top" onclick="topFunction()">
+  <i class="fa fa-angle-up"></i>
+</div>
+
+    <script>
+      var i = 0;
+      var txt = 'WELCOME TO MEDBUDDY';
+      var speed = 60;
+
+      function typeWriter() {
+        if (i < txt.length) {
+          document.getElementById("typeit").innerHTML += txt.charAt(i);
+          i++;
+          setTimeout(typeWriter, speed);
+        }
+      }
+    </script>
+
+    <!-- JavaScript -->
+    <script defer src="assets/lib/js/jquery-3.4.1.min.js"></script>
+    <script defer src="assets/lib/js/popper.min.js"></script>
+    <script defer src="assets/lib/js/bootstrap.bundle.min.js"></script>
+    <script defer src="assets/lib/js/all.min.js"></script>
+    <script defer src="assets/lib/js/select2.full.min.js"></script>
+    <script defer src="assets/js/about.js"></script>
+    
+  </body>
+
+<!-- Mirrored from medicalbuddy.herokuapp.com/ambulancelogin by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 10 Mar 2021 17:23:54 GMT -->
+</html>
