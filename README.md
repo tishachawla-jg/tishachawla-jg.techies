@@ -5,22 +5,31 @@ Website Link:https://tishachawla-jg.github.io/SheHacks_Team-037/ Youtube Demo Li
 PRODUCT DESCRIPTION
 
 Our Project is centred upon the idea of women empowerment.Women are a multitasker and it is essential to have a sound body and mind to persevere this unique power in them.Women are key in maintaining healthy families and access the health system more than men, both for themselves and on behalf of their children. Across her lifespan, a woman’s health status not only matters to herself but also to her family ,so it is essential to that they have sound mind and body .
+![image](https://user-images.githubusercontent.com/76087547/111077707-11d7d980-8518-11eb-94df-42a07a3ce6ae.png)
 
-image
 
 We have created this website to make it all simpler for them. We have looked at it from our own point of you and tried to incorporate as many features as possible.The features includes the convenience of :
 
 The features includes the convenience of :
 
-A Health column which includes a BMI and a CALORIE calculator ,a diet plan ,a workout plan for beginners and also some healthy habits to follow.We believe that this column would make it easier for them to find everything at a single place which is easily accessible.Also ,the BMI chart is added for measurement of a person's leanness or corpulence based on their height and weight, and is intended to quantify tissue mass.All these features are added to maintain a healthy lifestyle. image
+A Health column which includes a BMI and a CALORIE calculator ,a diet plan ,a workout plan for beginners and also some healthy habits to follow.We believe that this column would make it easier for them to find everything at a single place which is easily accessible.Also ,the BMI chart is added for measurement of a person's leanness or corpulence based on their height and weight, and is intended to quantify tissue mass.All these features are added to maintain a healthy lifestyle. 
+![image](https://user-images.githubusercontent.com/76087547/111077713-1ef4c880-8518-11eb-9a93-551f9786d16c.png)
 
-An exclusive psychiatric column which proposes the importance of meditation and inspires to make it a daily habit .Meditation produces a deep state of relaxation and a tranquil mind. Adding it to an everyday lifestyle keeps us relaxed thereby increasing the productivity.The psychiatric column includes videos such as proper meditation poses ,soothing vibrations for relaxation of mind and yoga asanas for healthy body and mind. image
 
-Music page contains a soothing track of music which calms the entire body .It is scientifically proven that music lowers Stress and Improves Health Condition.With such wonderful benefits adding music page becomes vital to make our website accomplished. image
+An exclusive psychiatric column which proposes the importance of meditation and inspires to make it a daily habit .Meditation produces a deep state of relaxation and a tranquil mind. Adding it to an everyday lifestyle keeps us relaxed thereby increasing the productivity.The psychiatric column includes videos such as proper meditation poses ,soothing vibrations for relaxation of mind and yoga asanas for healthy body and mind. 
 
-With so much load at workplace and at home,it is natural to forget the daily tasks and things to deal with, our website SHE has a provision of to-do list which makes it easier to keep track of things to do .The tasks list has two columns, one is for to-do tasks and the other one is for the completed tasks .As one completes her task, she just has to click on the box button and that task automatically comes under the completed tasks giving a sense of relief. image
 
-We promote Women Participation in every sphere, We have a special connect feature which is open to questions be it career related or some life issues or any health problem . A personal adviser is always there to suggest the best solution in that regard . With all these features we believe that our website provides every solution to any problem thereby making life easier for our Queens. image
+Music page contains a soothing track of music which calms the entire body .It is scientifically proven that music lowers Stress and Improves Health Condition.With such wonderful benefits adding music page becomes vital to make our website accomplished. 
+![image](https://user-images.githubusercontent.com/76087547/111077726-2916c700-8518-11eb-893e-4e85a4c59848.png)
+
+
+With so much load at workplace and at home,it is natural to forget the daily tasks and things to deal with, our website SHE has a provision of to-do list which makes it easier to keep track of things to do .The tasks list has two columns, one is for to-do tasks and the other one is for the completed tasks .As one completes her task, she just has to click on the box button and that task automatically comes under the completed tasks giving a sense of relief. 
+![image](https://user-images.githubusercontent.com/76087547/111077735-316f0200-8518-11eb-9c51-7d79f6530a9e.png)
+
+
+We promote Women Participation in every sphere, We have a special connect feature which is open to questions be it career related or some life issues or any health problem . A personal adviser is always there to suggest the best solution in that regard . With all these features we believe that our website provides every solution to any problem thereby making life easier for our Queens. 
+![image](https://user-images.githubusercontent.com/76087547/111077742-3a5fd380-8518-11eb-8b31-61347c6fafed.png)
+
 
 TARGET AUDIENCE Open for Women of all ages without any bound of caste, creed, color, community and nationality .A place where women can feel at ease.
 
@@ -31,3 +40,5 @@ Creators:
 Pratya Chandrayan
 Sadhna S
 Tisha Chawla 
+![image](https://user-images.githubusercontent.com/76087547/111077748-42b80e80-8518-11eb-91cf-e52bce9eb9d5.png)
+
