@@ -12,6 +12,7 @@ We have created this website to make it all simpler for them. We have looked at 
 
 The features includes the convenience of :
 A personal chatbot:
+To make the website more user friendly we have added a Chatbot feature .The Chatbot contains three sections :One is Menstruation Section which contains each and every information regarding periods and acts as a guide during the difficult times ,second is health section which has a specialized diet plan for women of all categories and then there is a safety section which acts as a supporter during the times we we feel unsafe and has safety advices.
 ![image](https://user-images.githubusercontent.com/76087547/111152646-f66fdb80-85b6-11eb-919b-25720e06ad22.png)
 
 
