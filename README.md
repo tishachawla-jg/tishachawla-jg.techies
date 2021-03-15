@@ -11,6 +11,9 @@ Our Project is centred upon the idea of women empowerment.Women are a multitaske
 We have created this website to make it all simpler for them. We have looked at it from our own point of you and tried to incorporate as many features as possible.The features includes the convenience of :
 
 The features includes the convenience of :
+A personal chatbot:
+![image](https://user-images.githubusercontent.com/76087547/111152646-f66fdb80-85b6-11eb-919b-25720e06ad22.png)
+
 
 A Health column which includes a BMI and a CALORIE calculator ,a diet plan ,a workout plan for beginners and also some healthy habits to follow.We believe that this column would make it easier for them to find everything at a single place which is easily accessible.Also ,the BMI chart is added for measurement of a person's leanness or corpulence based on their height and weight, and is intended to quantify tissue mass.All these features are added to maintain a healthy lifestyle. 
 ![image](https://user-images.githubusercontent.com/76087547/111077713-1ef4c880-8518-11eb-9a93-551f9786d16c.png)
